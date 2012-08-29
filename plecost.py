@@ -5,7 +5,7 @@
 # @url: http://iniqua.com/labs/
 # 
 # @author:Francisco J. Gomez aka ffranz (http://iniqua.com/)
-# @author:Daniel Garcia Garcia aka (http://iniqua.com/ - http://securitytoolslist.com)
+# @author:Daniel Garcia Garcia aka cr0hn (http://iniqua.com/)
 #
 # Code is licensed under -- GPLv3, http://www.gnu.org/licenses/gpl.html -- 
 #
